@@ -5145,7 +5145,7 @@
 				</wall>
 			</flat_building>
 			<landmark_building id="tb70:toon_landmark_MM_A1_DNARoot" code="toon_landmark_MM_A1">
-				<title>Ziggy's Zoo of Zigeunermusik</title>
+				<title>Ziggy's Zeitlose Zukunftsmusik</title>
 				<pos x="545" y="45" z="0" />
 				<nhpr h="90" p="0" r="-0" />
 				<door code="door_double_round_ur">
@@ -5157,17 +5157,17 @@
 					<baseline code="humanist">
 						<color r="0.501961" g="0" b="0.25098" a="1" />
 						<pos x="2.05" y="0" z="1.03" />
-						<text>Ziggy's Zoo</text>
+						<text>Ziggy's</text>
 					</baseline>
 					<baseline code="humanist">
 						<color r="0.501961" g="0" b="0.25098" a="1" />
 						<pos x="2.01" y="0" z="-0.09" />
-						<text>of</text>
+						<text>Zeitlose</text>
 					</baseline>
 					<baseline code="humanist">
 						<color r="0.501961" g="0" b="0.25098" a="1" />
 						<pos x="2.07" y="0" z="-1.01" />
-						<text>Zigeunermusik</text>
+						<text>Zukunftsmusik</text>
 					</baseline>
 				</sign>
 			</landmark_building>
