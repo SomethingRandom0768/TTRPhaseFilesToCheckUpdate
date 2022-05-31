@@ -398,4 +398,7 @@
     <model path="phase_5/models/cogdominium/ttr_m_ara_csa_annexSign">
 		<store_node root="prop" code="prop_cogdo_sign_sales" node="" />
     </model>
+	<model path="phase_5/models/cogdominium/ttr_m_ara_csa_annexSignExtended">
+		<store_node root="prop" code="prop_cogdo_sign_sales_extended" node="" />
+	</model>
 </storage>
